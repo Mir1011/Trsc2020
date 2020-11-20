@@ -1,0 +1,11 @@
+p{
+  color:purple; 
+  text-align:center;
+}
+
+button{
+  color: white;
+  width:200px; 
+  height:50px;
+  background-color:black;
+}
